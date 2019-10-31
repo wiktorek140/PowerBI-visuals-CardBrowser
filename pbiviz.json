@@ -1,7 +1,7 @@
 {
   "visual": {
     "name": "CardBrowser-Modded",
-    "displayName": "Card Browser",
+    "displayName": "Card Browser v1.2.0",
     "guid": "CardBrowser8D7CFFDA2E7E400C9474F41B9EDBBA55",
     "visualClassName": "CardBrowser",
     "description": "ESSEX Card Browser",
@@ -20,5 +20,5 @@
   },
   "style": "style/visual.scss",
   "capabilities": "capabilities.json",
-  "output": "dist/essex.cardbrowser.pbiviz"
+  "output": "dist/cardbrowserv1.2.0.pbiviz"
 }
